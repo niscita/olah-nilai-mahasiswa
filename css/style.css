@@ -1,0 +1,19 @@
+/*FIle Konfigurasi CSS*/
+h2, legend, p {
+    text-align: center;
+}
+.form-create {
+    margin-left: 40%;
+}
+.form-group{
+    margin-left: 4%;
+    margin-top: 3%;
+}
+table{
+    font-size: 21px;
+    display: inline-block;
+}
+.form-ubah {
+    margin-left: 40%;
+}
+
