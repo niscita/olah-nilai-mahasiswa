@@ -38,7 +38,7 @@ function ubah($connection){
                 <input type="number" name="nilai" value="<?php echo $_GET['nilai'] ?>"/>
                  <p>SKS</p>
                 <input type="number" name="sks" value="<?php echo $_GET['sks'] ?>"/>
-                <p>a</p>              
+                <p> </p>              
                 <label>
                     <input type="submit" class="btn-warning" name="btn_ubah" value="Simpan Perubahan"/>
                 </label>
